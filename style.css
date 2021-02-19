@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#navbar a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #808080
+}
+
+#navbar {
+  text-align: center;
+}
+
+
