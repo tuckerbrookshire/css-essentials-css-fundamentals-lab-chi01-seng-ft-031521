@@ -13,7 +13,7 @@ h1 {
 }
 
 #navbar a {
-  text-align: center;
+  position: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #808080
