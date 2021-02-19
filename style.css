@@ -13,11 +13,13 @@ h1 {
 }
 
 #navbar a {
-  margin: auto;
-  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #808080
+}
+
+#navbar {
+  text-align: center;
 }
 
 
